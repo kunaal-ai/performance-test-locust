@@ -3,7 +3,7 @@
 # single file run 
 ```locust -f file_name.py```
 
-# all test run 
+# to run test
 ```locust```
 
 # base-url 
